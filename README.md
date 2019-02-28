@@ -1,6 +1,6 @@
 # A-note-form-a-weeb
 Nothing special, just a daily notebook.
 
-[C_Note](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/C)
+[C_Note](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/C.md)
 
-[Python_Note](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/Python)
+[Python_Note](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/Python.md)
