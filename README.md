@@ -6,3 +6,5 @@ Nothing special, just a daily notebook.
 [Python_Note](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/Python.md)
 
 [学校考的垃圾题目与解析](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/C_Wrong_Answers_Explanation.md)
+
+[KOFwing](https://github.com/MXYLR/A-note-from-a-weeb/blob/master/KOFwing%E7%AC%94%E8%AE%B0.md)
