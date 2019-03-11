@@ -148,3 +148,6 @@ F远指针　　n近指针　　h短整数或单精度浮点数　　l长整数�
 
 ### 11.头文件h
 [C 头文件](http://www.runoob.com/cprogramming/c-header-files.html)
+
+### 12.三目运算符
+[三目运算符](https://baike.baidu.com/item/%E4%B8%89%E7%9B%AE%E8%BF%90%E7%AE%97%E7%AC%A6/6434591?fr=aladdin)
