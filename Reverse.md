@@ -94,4 +94,6 @@ tc eip<xxxxxx (地址)
 然后我们选择 "块方式跟踪", 就是第二个, 当然有的要选第三个, 然后点确定, 重载一下
 然后 OD 自动跳到了 OEP
 
+### 补充 : [SFX 法](https://ctf-wiki.github.io/ctf-wiki/reverse/windows/unpack/sfx/)
+
 ### 一般情况, 还是建议手动查找 OEP, 如果你熟练了也可以用自动的方法.
