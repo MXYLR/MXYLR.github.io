@@ -19,13 +19,13 @@
 
 ![1738753116756](image/tutorial/1738753116756.png)
 
-    Change the website url here to your custom server's ip
+Change the website url here to your custom server's ip
 
-    ```
-    For example : https://http://26.104.88.212:80/tppstm/gate
-    ```
+ ```
+ For example : https://http://26.104.88.212:80/tppstm/gate
+ ```
 
-    **Caution : do not break the binary address while editting the exe file, or the game will freeze at startup**
+**Caution : do not break the binary address while editting the exe file, or the game will freeze at startup**
 
 ###  1.2. <a name='Usetpp-modrecommend'></a>Use tpp-mod (recommend)
 
