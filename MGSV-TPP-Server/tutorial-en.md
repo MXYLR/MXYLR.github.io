@@ -33,6 +33,10 @@ Download the dll file here : [dinput8.dll](https://github.com/MXYLR/MXYLR.github
 
 Move the `dinput8.dll` to your game folder :
 
+```
+For example : G:\SteamLibrary\steamapps\common\MGS_TPP
+```
+
 ![1738753563556](image/tutorial/1738753563556.png)
 
 Then add this to your steam launch options :
