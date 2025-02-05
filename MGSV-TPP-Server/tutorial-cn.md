@@ -1,11 +1,11 @@
 # Tutorials about MGSV:TPP custom server
 
 <!-- vscode-markdown-toc -->
-* 1. [How to connect a custom server rather than Konami's server ?](#HowtoconnectacustomserverratherthanKonamisserver)
-	* 1.1. [Use hex editor to edit mgsvtpp.exe](#Usehexeditortoeditmgsvtpp.exe)
-	* 1.2. [Use tpp-mod (recommend)](#Usetpp-modrecommend)
-		* 1.2.1. [Compile the tpp-mod by yourself](#Compilethetpp-modbyyourself)
-* 2. [How to set up my own server ?](#Howtosetupmyownserver)
+* 1. [如何连接一个自定义服务器而不是科乐美的官方服务器 ?](#HowtoconnectacustomserverratherthanKonamisserver)
+	* 1.1. [用 16 进制编辑器修改 mgsvtpp.exe](#Usehexeditortoeditmgsvtpp.exe)
+	* 1.2. [使用 tpp-mod (强烈推荐))](#Usetpp-modrecommend)
+		* 1.2.1. [你也可以自己编译 tpp-mod 的源代码](#Compilethetpp-modbyyourself)
+* 2. [如何搭建一个自己的服务器呢 ?](#Howtosetupmyownserver)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
