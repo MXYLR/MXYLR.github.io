@@ -29,7 +29,7 @@
 
 ###  1.2. <a name='Usetpp-modrecommend'></a>Use tpp-mod (recommend)
 
-Download the dll file here : (insert link later)
+Download the dll file here : [dinput8.dll](https://github.com/MXYLR/MXYLR.github.io/blob/master/MGSV-TPP-Server/dinput8.dll)
 
 Move the `dinput8.dll` to your game folder :
 
