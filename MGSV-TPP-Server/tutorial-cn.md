@@ -1,4 +1,4 @@
-# Tutorials about MGSV:TPP custom server
+# 幻痛私服教程
 
 <!-- vscode-markdown-toc -->
 * 1. [如何连接一个自定义服务器而不是科乐美的官方服务器 ?](#HowtoconnectacustomserverratherthanKonamisserver)
